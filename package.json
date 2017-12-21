@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chetan Yewale",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "docxtemplater": "^3.1.12",
+    "express": "^4.16.2"
+  }
 }
